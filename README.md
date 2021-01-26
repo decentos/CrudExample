@@ -1,5 +1,4 @@
-# CrudExample
-Example of CRUD-service
+# Simple example of a CRUD service
 
 Embedded DB H2:
 localhost:8080/h2-console/ -> connect
